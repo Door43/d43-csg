@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[csg:home|Door43 (csg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-csg|d43-csg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-csg/archive/master.zip|d43-csg.zip]]
+
+**Recent Changes**
+{{changes>ns = csg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/csg|Ethnologue data]]
+
